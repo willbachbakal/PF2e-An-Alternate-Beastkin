@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "an-alternate-beastkin",
+  "title": "An Alternate Beastkin",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An alternate version of the beastkin versatile heritage for Pathfinder Second Edition, reimplementing it as an extension of the awakened animal ancestry.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "an-alternate-beastkin",
+      "label": "An Alternate Beastkin",
+      "path": "packs/an-alternate-beastkin",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/Ucn2eyi7AYas"
 }
